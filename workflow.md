@@ -41,3 +41,7 @@ $ git add fichier.extension
 $ git add -all
 
 >permet de faire une photo de tous les fichiers.
+
+$ git push origin master
+
+> permet de faire un push sur son dépôt github de la branche master
